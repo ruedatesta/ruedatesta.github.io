@@ -1,12 +1,12 @@
 ---
-title: "Labor Income Responses of Top Incomes to Tax Changes: Evidence from a Tax Reform in Uruguay" 
+title: "Partisan Differences in Inflation Expectations: Evidence from a Conjoint Experiment" 
 date: 2012-06-01
 tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Marcelo Bergolo, Gabriel Burdin, Mauricio De Rosa, Matias Giaccobasso, Martín Leites, and Horacio Rueda"
+author: "Gail Buttorff, Sameer Malik, Pablo M. Pinto, Horacio Rueda, Agustín Vallejo, and M.C. Sunny Wong"
 description: "This paper shows things. Published in Journal Name, 2012." 
 summary: "This paper shows things using various techniques and data." 
 cover:
-    image: "paper3_figure.pdf"
+    image: "paper3.png"
     alt: "Image caption"
     relative: false
 editPost:
