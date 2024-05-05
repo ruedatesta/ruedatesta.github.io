@@ -76,20 +76,20 @@ The primary focus of my research is understanding the causes and consequences of
           url: cv.pdf
         - name: Email
           url: mailto:rhruedar@cougarnet.uh.edu
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+        # - name: Location
+        #   url: location/
+        # - name: Office Hours
+        #   url: officehours/
+        # - name: Google Scholar
+        #   url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        # - name: YouTube
+        #   url: https://www.youtube.com/@pmichaillat
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
+          url: https://github.com/ruedatesta
+        # - name: Substack
+        #   url: https://pmichaillat.substack.com
         - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://twitter.com/ruedatesta
 
     assets:
         disableHLJS: true
