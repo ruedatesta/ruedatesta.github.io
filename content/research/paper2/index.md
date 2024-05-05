@@ -1,5 +1,5 @@
 ---
-title: "Paper Title 2" 
+title: "Surfing the Latin American pink tide: secular trends or sudden change in public opinion? An Oaxaca-Blinder approach" 
 date: 2015-12-01
 tags: ["keyword 1","keyword 2","keyword 4"]
 author: ["Author Name 1", "Author Name 2"]
