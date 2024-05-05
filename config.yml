@@ -25,8 +25,9 @@ menu:
           weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
+    description: "I am an Econ Ph.D. student at the University of Houston.
+
+The primary focus of my research is understanding the causes and consequences of imperfect competition on economic aggregates and their distribution. To accomplish this, I combine tools from industrial organization embedded in heterogeneous agents and firm dynamic models."
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
