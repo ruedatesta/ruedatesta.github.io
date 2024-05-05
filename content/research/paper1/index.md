@@ -1,6 +1,6 @@
 ---
 title: "Labor Income Responses of Top Incomes to Tax Changes: Evidence from a Tax Reform in Uruguay" 
-date: 2012-06-01
+date: 2022-06-11
 tags: ["keyword 1","keyword 2","keyword 3"]
 author: "Marcelo Bergolo, Gabriel Burdin, Mauricio De Rosa, Matias Giaccobasso, Martín Leites, and Horacio Rueda"
 description: "This paper shows things. Published in Journal Name, 2012." 
@@ -19,9 +19,9 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/job-rationing)
++ [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4007698)
+<!-- + [Online appendix](appendix1.pdf)
++ [Code and data](https://github.com/pmichaillat/job-rationing) -->
 
 ---
 
@@ -31,11 +31,11 @@ This paper presents new evidence on how top-income earners react to personal inc
 
 ---
 
-##### Figure X: Figure caption
+##### Figure: Marginal and Average Tax Rate - Uruguay 2012
 
 ![](paper1.png)
 
----
+<!-- ---
 
 ##### Citation
 
@@ -51,13 +51,13 @@ pages = {XXX--YYY},
 title ={Title},
 volume = {Volume},
 year = {Year}}
-```
-
+``` -->
+<!-- 
 ---
 
 ##### Related material
 
 + [Presentation slides](presentation1.pdf)
 + [Dissertation title](https://escholarship.org/uc/item/7jr3m96r) – PhD dissertation on which this paper is based.
-+ [Column title](https://cep.lse.ac.uk/pubs/download/cp365.pdf) – Nontechnical column describing the paper.
++ [Column title](https://cep.lse.ac.uk/pubs/download/cp365.pdf) – Nontechnical column describing the paper. -->
 
