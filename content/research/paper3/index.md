@@ -33,7 +33,7 @@ Affective polarization can impact policy evaluations, as individuals who experie
 
 ##### Figure X: Figure caption
 
-![](paper1.png)
+![](paper3.png)
 
 ---
 
