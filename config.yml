@@ -59,8 +59,8 @@ The primary focus of my research is understanding the causes and consequences of
           imageHeight: 160
           imageTitle: Prof. Name
           buttons:
-            - name: Papers
-              url: papers/
+            - name: Research
+              url: research/
             # - name: Courses
             #   url: courses/
             # - name: Data
