@@ -14,9 +14,9 @@ menu:
         - name: Research
           url: research/
           weight: 1
-        # - name: Courses
-        #   url: courses/
-        #   weight: 2
+        - name: Miscellaneous
+          url: miscellaneous/
+          weight: 2
         # - name: Data
         #   url: data/
         #   weight: 3 
@@ -61,6 +61,8 @@ I am interested in market power, labor and international trade. The primary focu
           buttons:
             - name: Research
               url: research/
+            - name: Miscellaneous
+              url: miscellaneous/
             # - name: Courses
             #   url: courses/
             # - name: Data
