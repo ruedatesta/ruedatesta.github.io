@@ -1,4 +1,4 @@
-baseURL: "https://ruedatesta.github.io" 
+baseURL: "https://ruedatesta.github.io/" 
 title: Prof. Name
 paginate: 20
 theme: PaperMod
