@@ -25,9 +25,8 @@ menu:
           weight: 4
 
 params:
-    description: "I am an Econ Ph.D. student at the University of Houston.
-
-The primary focus of my research is understanding the causes and consequences of imperfect competition on economic aggregates and their distribution. To accomplish this, I combine tools from industrial organization embedded in heterogeneous agents and firm dynamic models."
+    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
+consequat."
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -52,7 +51,9 @@ The primary focus of my research is understanding the causes and consequences of
     profileMode:
           enabled: true
           title: Horacio Rueda
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          subtitle: "My name is Horacio Rueda. I am an Econ Ph.D. student at the University of Houston.
+
+The primary focus of my research is understanding the causes and consequences of imperfect competition on economic aggregates and their distribution. To accomplish this, I combine tools from industrial organization embedded in heterogeneous agents and firm dynamic models."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -74,7 +75,7 @@ The primary focus of my research is understanding the causes and consequences of
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:rhruedar@cougarnet.uh.edu
         - name: Location
           url: location/
         - name: Office Hours
