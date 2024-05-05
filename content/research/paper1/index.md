@@ -27,7 +27,7 @@ editPost:
 
 ##### Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This paper presents new evidence on how top-income earners react to personal income taxation, uncovering the different margins of responses. By combining rich administrative records and variation in the tax rates for the top 1\% income earners induced by a tax reform in Uruguay, we estimate an intensive margin elasticity of 0.577, partially explained by a real labor supply adjustment. Responses on the extensive margin are larger (semi-elasticity of 2.479), driven mainly by labor-to-corporate income shifting (semi-elasticity of -1.967). Our welfare analysis suggests that the efficiency losses associated with the reform represent at most 31\% of the projected increase in tax revenue, implying that the new top tax rates are on the ``correct'' side of the Laffer curve.
 
 ---
 
