@@ -2,7 +2,7 @@
 title: "Surfing the Latin American pink tide: secular trends or sudden change in public opinion? An Oaxaca-Blinder approach" 
 date: 2015-12-01
 tags: ["keyword 1","keyword 2","keyword 4"]
-author: ["Author Name 1", "Author Name 2"]
+author: "Matías Brum, Paola Cazulo, Horacio Rueda, and Sabrina Siniscalchi"
 description: "This paper shows other things. Published in Journal Name, 2015." 
 summary: "This paper shows other things using other techniques and different data." 
 cover:
