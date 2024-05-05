@@ -27,7 +27,7 @@ editPost:
 
 ##### Abstract
 
-This paper presents new evidence on how top-income earners react to personal income taxation, uncovering the different margins of responses. By combining rich administrative records and variation in the tax rates for the top 1\% income earners induced by a tax reform in Uruguay, we estimate an intensive margin elasticity of 0.577, partially explained by a real labor supply adjustment. Responses on the extensive margin are larger (semi-elasticity of 2.479), driven mainly by labor-to-corporate income shifting (semi-elasticity of -1.967). Our welfare analysis suggests that the efficiency losses associated with the reform represent at most 31\% of the projected increase in tax revenue, implying that the new top tax rates are on the ``correct'' side of the Laffer curve.
+Affective polarization can impact policy evaluations, as individuals who experience intense negative emotions towards opposition party elements often view issues through a partisan lens and emotional biases, leading to diverging policy positions. We examine how partisan biases affect inflation expectations, a critical economic indicator in monetary policymaking. Using data from a choice experiment (CE) embedded in a survey of a representative sample of US residents conducted between August 11 and 29, 2022, we find that political polarization plays a significant role in shaping public inflation expectations even after controlling for policies affecting macroeconomic performance. Republicans are going to have higher inflation expectations when Democrats are in office regardless of their policies, and \textit{vice versa}. This study allows a better understanding of the interactions between partisan perceptions and economic expectations.
 
 ---
 
