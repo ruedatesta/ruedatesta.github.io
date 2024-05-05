@@ -1,8 +1,8 @@
 ---
-title: "Paper Title 1" 
+title: "Labor Income Responses of Top Incomes to Tax Changes: Evidence from a Tax Reform in Uruguay" 
 date: 2012-06-01
 tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Author Name"
+author: "Marcelo Bergolo, Gabriel Burdin, Mauricio De Rosa, Matias Giaccobasso, Martín Leites, and Horacio Rueda"
 description: "This paper shows things. Published in Journal Name, 2012." 
 summary: "This paper shows things using various techniques and data." 
 cover:
