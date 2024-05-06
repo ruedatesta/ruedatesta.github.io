@@ -1,7 +1,7 @@
 ---
 title: "Misc"
 
-description: "Hobbies"
+description: "misc"
 ---
 
 ### misc
