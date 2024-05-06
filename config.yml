@@ -61,8 +61,8 @@ I am interested in market power, labor and international trade. The primary focu
           buttons:
             - name: Research
               url: research/
-            - name: Miscellaneous
-              url: miscellaneous/
+            - name: Misc
+              url: misc/
             # - name: Courses
             #   url: courses/
             # - name: Data
