@@ -14,8 +14,8 @@ menu:
         - name: Research
           url: research/
           weight: 1
-        - name: Miscellaneous
-          url: miscellaneous/
+        - name: Misc
+          url: misc/
           weight: 2
         # - name: Data
         #   url: data/
