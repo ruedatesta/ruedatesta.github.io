@@ -31,7 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ---
 
-##### Figure X: Figure caption
+##### Figure: Figure caption
 
 ![](paper2.png)
 

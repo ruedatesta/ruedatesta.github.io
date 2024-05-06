@@ -1,6 +1,6 @@
 ---
 title: "Partisan Differences in Inflation Expectations: Evidence from a Conjoint Experiment" 
-date: 2024-05-02
+date: 2024-04-02
 tags: ["keyword 1","keyword 2","keyword 3"]
 author: "Gail Buttorff, Sameer Malik, Pablo M. Pinto, Horacio Rueda, Agustín Vallejo, and M.C. Sunny Wong"
 description: "This paper shows things. Published in Journal Name, 2012." 
