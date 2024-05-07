@@ -11,7 +11,7 @@ cover:
     relative: false
 editPost:
     # URL: "https://doi.org/10.1257/aer.102.4.1721"
-    # Text: "Journal Name"
+    Text: "R&R Journal of European Economic Association"
 
 ---
 
