@@ -4,7 +4,7 @@ date: 2022-06-11
 tags: ["keyword 1","keyword 2","keyword 4"]
 author: "Matías Brum, Paola Cazulo, Horacio Rueda, and Sabrina Siniscalchi"
 description: "This paper shows other things. Published in Journal Name, 2015." 
-summary: "This paper shows other things using other techniques and different data." 
+summary: "Submitted" 
 cover:
     image: "paper2.png"
     alt: "Image caption"

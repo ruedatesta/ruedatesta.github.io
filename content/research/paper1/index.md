@@ -4,7 +4,7 @@ date: 2022-06-11
 # tags: ["keyword 1","keyword 2","keyword 3"]
 author: "Marcelo Bergolo, Gabriel Burdin, Mauricio De Rosa, Matias Giaccobasso, Martín Leites, and Horacio Rueda"
 description: "This paper shows things. Published in Journal Name, 2012." 
-summary: "This paper shows the margins of response of top income earners to an increase in marginal taxes. *R&R Journal of European Economic Association*"
+summary: "*R&R Journal of European Economic Association*"
 cover:
     image: "paper1.png"
     alt: "Image caption"
