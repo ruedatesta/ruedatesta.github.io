@@ -1,7 +1,7 @@
 ---
 title: "Misc"
 
-description: "misc"
+description: "Misc"
 ---
 
 ### misc
