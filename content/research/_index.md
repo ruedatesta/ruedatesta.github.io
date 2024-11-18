@@ -8,10 +8,9 @@ description: "Research"
 
 ## Working Papers
 
-[__Labor Income Responses of Top Incomes to Tax Changes: Evidence from a Tax Reform in Uruguay__]() \
+[__Labor Income Responses of Top Incomes to Tax Changes: Evidence from a Tax Reform in Uruguay__](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4007698) \
 _with_ Marcelo Bergolo, Gabriel Burdin, Mauricio De Rosa, Matias Giaccobasso and Martín Leites \
-_Revise and Resubmit, Journal of European Economic Association_ \
-[Ungated](/sbir.pdf) 
+_Revise and Resubmit, Journal of European Economic Association_
 
 <details>
 <summary>Abstract</summary>
@@ -27,6 +26,6 @@ In this paper, we analyze how top income earners (TIEs) respond to changes in pe
 - Gender Wage Gap in Brazil \
 _with_ Chinhui Juhn, Yona Rubinstein, and Angelo Santos. 
 
-- Market Power, Foreign Direct Investment, and Conflict. _with_ Pablo M. Pinto.
+- Market Power, Foreign Direct Investment, and Conflict. _With_ Pablo M. Pinto.
 
 - Trade Liberalization, Intermediate Inputs, and Markups.
