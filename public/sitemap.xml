@@ -56,7 +56,5 @@
     <loc>http://localhost:1313/officehours/</loc>
   </url><url>
     <loc>http://localhost:1313/research/</loc>
-  </url><url>
-    <loc>http://localhost:1313/research/</loc>
   </url>
 </urlset>
