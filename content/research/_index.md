@@ -1,11 +1,10 @@
 ---
-title: "Research" 
-url: /research/
-hidemeta: true
+title: "Research"
 
+description: "Research"
 ---
 
----
+# Research
 
 ## Working Papers
 
