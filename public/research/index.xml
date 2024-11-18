@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Researches on Horacio Rueda</title>
+    <link>http://localhost:1313/research/</link>
+    <description>Recent content in Researches on Horacio Rueda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/research/</guid>
+      <description>Working Papers Labor Income Responses of Top Incomes to Tax Changes: Evidence from a Tax Reform in Uruguay with Marcelo Bergolo, Gabriel Burdin, Mauricio De Rosa, Matias Giaccobasso and Martín Leites Revise and Resubmit, Journal of European Economic Association Ungated Abstract In this paper, we analyze how top income earners (TIEs) respond to changes in personal income taxation. Using an unprecedented combination of administrative records from the Tax and Social Security Agencies that covers most sources of personal income, we exploit a unique reform to Uruguay’s progressive labor income tax schedule that generated quasi-random variation in the marginal tax rates affecting labor income earners in the top 1% of the distribution.</description>
+    </item>
+    
+  </channel>
+</rss>
