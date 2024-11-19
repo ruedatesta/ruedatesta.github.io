@@ -11,12 +11,15 @@ taxonomies:
 
 menu:
     main:
+        - name: Home
+          url: /
+          weight: 1
         - name: Research
           url: research/
-          weight: 1
+          weight: 2
         - name: Misc
           url: misc/
-          weight: 2
+          weight: 3
         # - name: Data
         #   url: data/
         #   weight: 3 
