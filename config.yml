@@ -29,7 +29,7 @@ menu:
 
 params:
     description: "I am a 5th year Ph.D. candidate in Economics at the University of Houston.
-          I am interested in macroeconomics, industrial organizationa and labor. The primary focus of my research is understanding the causes and consequences of imperfect competition on economic aggregates and their distribution"
+          I am interested in macroeconomics, industrial organization and labor. The primary focus of my research is understanding the causes and consequences of imperfect competition on economic aggregates and their distribution"
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -57,7 +57,7 @@ params:
           subtitle: "Welcome to my personal website!<br> \ 
           
           I am a fifth-year Ph.D. student in the Economics department at the University of Houston.
-          I am interested in market power, labor and international trade. The primary focus of my research is understanding the causes and consequences of imperfect competition on economic aggregates and their distribution. <br> <br>
+          I am interested in macroeconomics, industrial organization and labor. The primary focus of my research is understanding the causes and consequences of imperfect competition on economic aggregates and their distribution. <br> <br>
           
           Here you can find my <a href='cv.pdf' style='color:#ff7609;'><b>CV</b></a>."
           imageUrl: "picture.jpeg"
