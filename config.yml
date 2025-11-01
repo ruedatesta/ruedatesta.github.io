@@ -62,7 +62,8 @@ params:
           Here you can find my <a href='cv.pdf' style='color:#ff7609;'><b>CV</b></a>. <br> <br>
           
           **I am on the 2025-2026 job market.**"
-          imageUrl: "picture.jpeg"
+          # imageUrl: "picture.jpeg"
+          imageUrl: "hrueda_photo_4.png"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Horacio Rueda
