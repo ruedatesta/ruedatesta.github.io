@@ -30,12 +30,3 @@ This paper studies how top earners in Uruguay responded to a 2012 tax reform tha
 </p>
 </details>
 
-## Selected Works in Progress
-
-- Gender Wage Gap in Brazil \
-_with_ Chinhui Juhn, Yona Rubinstein, and Angelo Santos. 
-
-- Tariffs and automation with income effects. _With_ Sameer Malik, Pablo M. Pinto, Garrett
-Upchurch, and Sunny Wong.
-
-- Trade and emissions in the South Cone. _With_ Angelo dos Santos
