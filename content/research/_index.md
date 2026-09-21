@@ -9,7 +9,7 @@ description: "Research"
 
 ## Working Papers
 
-Job Market Paper. [__Minimum Wages and Firms’ Labor Market Power__](jmp_hrueda.pdf) 
+**Minimum Wages and Firms’ Labor Market Power**. New version coming soon.
 
 <details>
 <summary>Abstract</summary>
