@@ -21,7 +21,7 @@ Using matched employer-employee data, I empirically and theoretically study the 
 
 [__How do Top Earners Respond to Taxation? Own- and Cross-Tax Base Responses, Efficiency, and Inequality__](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4007698) \
 _with_ Marcelo Bergolo, Gabriel Burdin, Mauricio De Rosa, Matias Giaccobasso and Martín Leites \
-_Revise and Resubmit, Journal of the European Economic Association_
+_Conditionally Accepted, Journal of the European Economic Association._
 
 <details>
 <summary>Abstract</summary>
