@@ -1,0 +1,353 @@
+/* =========================================================
+   Blend 1 redesign ("mostly A"): serif headings, sans text,
+   orange accent. Loaded after all theme CSS, so everything
+   here overrides it. Delete this file to undo the styling.
+   ========================================================= */
+
+:root {
+    --font-body: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    --font-serif: "Newsreader", Georgia, "Times New Roman", serif;
+    --font-label: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+
+    --accent: #e5650c;
+    --accent-strong: #c4560a;
+    --accent-soft: #fff2e8;
+    --accent-text: #9e4307;
+    --accent-line: #f1c3a2;
+
+    /* the theme uses these names for its accent color */
+    --darkpurple: var(--accent);
+    --midpurple: var(--accent);
+    --lightpurple: var(--accent-line);
+
+    --secondary: rgb(95, 101, 112);
+    --border: rgb(236, 236, 236);
+    --homesize: 17px;
+    --textsize: 17px;
+    --lineheight: 1.55;
+}
+
+body {
+    font-family: var(--font-body);
+}
+
+/* White page background everywhere (the theme greys out list pages) */
+.list,
+.nav {
+    background: var(--theme);
+}
+
+.header {
+    border-bottom: 1px solid var(--border);
+}
+
+.footer {
+    background: var(--theme);
+    border-top: 1px solid var(--border);
+}
+
+/* ---------- Top menu (all pages except the front page) ---------- */
+.logo a {
+    font-family: var(--font-serif);
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#menu a {
+    font-size: 15px;
+    color: var(--secondary);
+}
+
+#menu a:hover,
+#menu .active {
+    color: var(--primary);
+}
+
+#menu .active {
+    font-weight: 600;
+    border-bottom: 2px solid var(--accent);
+}
+
+/* ---------- Front page ---------- */
+.profile-head {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+.profile .profile-head img {
+    width: 124px;
+    height: 124px;
+    object-fit: cover;
+    flex: none;
+    border-radius: 50%;
+    border: 1px solid rgb(230, 230, 230);
+}
+
+.profile .profile_inner h1 {
+    font-family: var(--font-serif);
+    font-weight: 500;
+    font-size: 42px;
+    line-height: 1.05;
+    letter-spacing: -0.01em;
+    padding: 0;
+    margin: 0;
+}
+
+.profile-role {
+    font-family: var(--font-serif);
+    font-style: italic;
+    font-size: 18px;
+    color: var(--secondary);
+    margin-top: 6px;
+}
+
+.profile-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin: 20px 0 16px;
+}
+
+.profile-tags span {
+    font-size: 13px;
+    background: var(--accent-soft);
+    color: var(--accent-text);
+    border-radius: 999px;
+    padding: 2px 11px;
+}
+
+.profile-bio {
+    display: block;
+    max-width: 64ch;
+}
+
+.profile-bio a {
+    color: var(--accent-strong);
+    font-weight: 600;
+    border-bottom: 1px solid var(--accent-line);
+}
+
+.profile-bio a:hover {
+    border-bottom-color: var(--accent);
+}
+
+.profile .social-icons {
+    padding: 14px 0 8px;
+}
+
+.profile .social-icons a {
+    color: var(--secondary);
+}
+
+.profile .social-icons a:hover {
+    color: var(--accent);
+}
+
+/* Research / Media / Misc buttons */
+.profile .buttons {
+    gap: 10px;
+    margin: 14px 0 0;
+}
+
+.profile .button {
+    background: transparent;
+    border: 1px solid rgb(225, 225, 225);
+    border-radius: 8px;
+    margin: 0;
+    padding: 8px 16px;
+    font-family: var(--font-serif);
+    font-size: 17px;
+    transition: border-color 0.15s;
+}
+
+.profile .button-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 0;
+}
+
+.profile .button-inner::after {
+    content: "→";
+    color: var(--accent);
+    font-family: var(--font-label);
+    font-size: 15px;
+}
+
+.profile .button:hover {
+    background: transparent;
+    border-color: var(--accent);
+}
+
+/* ---------- Inner pages (Research, Media, Misc) ---------- */
+.post-content h1,
+.post-content h2,
+.post-content h3 {
+    font-family: var(--font-serif);
+    font-weight: 500;
+    letter-spacing: -0.005em;
+}
+
+.post-content h1 {
+    font-size: 36px;
+    margin: 16px 0 20px;
+}
+
+.post-content h2 {
+    font-size: 25px;
+    margin: 28px 0 8px;
+}
+
+.post-content h3 {
+    font-size: 21px;
+}
+
+/* One block per paper on the Research page */
+.paper {
+    padding: 16px 0;
+}
+
+.paper + .paper {
+    border-top: 1px solid var(--border);
+}
+
+.paper-status {
+    font-family: var(--font-label);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--accent-text);
+}
+
+.paper-title {
+    font-family: var(--font-serif);
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 1.3;
+    margin-top: 4px;
+}
+
+.post-content .paper-title a {
+    box-shadow: none;
+}
+
+.post-content .paper-title a:hover {
+    color: var(--accent-strong);
+}
+
+.paper-authors {
+    color: var(--secondary);
+    font-size: 16px;
+    margin-top: 2px;
+}
+
+.paper-links {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 6px;
+    margin-top: 10px;
+}
+
+.paper-links details[open] {
+    flex-basis: 100%;
+}
+
+.post-content .paper-links a,
+.paper-links summary {
+    display: inline-block;
+    font-size: 14px;
+    line-height: 1.5;
+    color: var(--primary);
+    border: 1px solid rgb(225, 225, 225);
+    border-radius: 6px;
+    padding: 1px 10px;
+    box-shadow: none;
+    cursor: pointer;
+    list-style: none;
+}
+
+.paper-links summary::-webkit-details-marker {
+    display: none;
+}
+
+.paper-links summary::after {
+    content: " ▾";
+    font-size: 11px;
+    color: var(--secondary);
+}
+
+.paper-links details[open] summary::after {
+    content: " ▴";
+}
+
+.post-content .paper-links a:hover,
+.paper-links summary:hover {
+    border-color: var(--accent);
+}
+
+.paper-links summary:focus-visible,
+.paper-links a:focus-visible,
+.profile .button:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+}
+
+.paper-links details p {
+    font-size: 16px;
+    color: var(--secondary);
+    margin: 10px 0 0;
+    max-width: 68ch;
+}
+
+/* ---------- Phones ---------- */
+@media (max-width: 600px) {
+    /* On phones, start the front page near the top instead of centering it on screen */
+    .main .profile {
+        min-height: 0;
+        padding-top: 24px;
+    }
+
+    .profile-head {
+        gap: 16px;
+    }
+
+    .profile .profile-head img {
+        width: 84px;
+        height: 84px;
+    }
+
+    .profile .profile_inner h1 {
+        font-size: 31px;
+    }
+
+    .profile-role {
+        font-size: 16px;
+    }
+
+    .profile .buttons {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 8px;
+    }
+
+    .profile .button {
+        padding: 12px 16px;
+    }
+
+    .post-content h1 {
+        font-size: 30px;
+    }
+
+    .paper-title {
+        font-size: 19px;
+    }
+
+    .post-content .paper-links a,
+    .paper-links summary {
+        padding: 5px 12px;
+    }
+}

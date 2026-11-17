@@ -1,0 +1,60 @@
+<div class="profile">
+    {{- with site.Params.profileMode }}
+    <div class="profile_inner">
+        <div class="profile-head">
+            {{- if .imageUrl -}}
+            {{- $img := "" }}
+            {{- if not (urls.Parse .imageUrl).IsAbs }}
+                {{- $img = resources.Get .imageUrl }}
+            {{- end }}
+            {{- if $img }}
+                {{- /* Crop to a square at 2x size so it stays sharp on retina screens */}}
+                {{- $w := .imageWidth | default 150 }}
+                {{- $h := .imageHeight | default 150 }}
+                {{- $img = $img.Fill (printf "%dx%d Top" (mul 2 $w) (mul 2 $h)) }}
+                <img draggable="false" src="{{ $img.Permalink }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
+                    height="{{ $h }}" width="{{ $w }}" />
+            {{- else }}
+            <img draggable="false" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
+                height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
+            {{- end }}
+            {{- end }}
+            <div class="profile-name">
+                <h1>{{ .title | default site.Title | markdownify }}</h1>
+                {{- with .role }}
+                <p class="profile-role">{{ . | markdownify }}</p>
+                {{- end }}
+            </div>
+        </div>
+
+        {{- with .tags }}
+        <div class="profile-tags">
+            {{- range . }}<span>{{ . }}</span>{{- end }}
+        </div>
+        {{- end }}
+
+        <span class="profile-bio">{{ .subtitle | markdownify }}</span>
+        {{- partial "social_icons.html" site.Params.socialIcons -}}
+
+        {{- with .buttons }}
+        <div class="buttons">
+            {{- range . }}
+            <a class="button" href="{{ trim .url " " }}" rel="noopener" title="{{ .name }}">
+                <span class="button-inner">
+                    {{ .name }}
+                    {{- if (findRE "://" .url) }}&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="14" width="14">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
+                    {{- end }}
+                </span>
+            </a>
+            {{- end }}
+        </div>
+        {{- end }}
+    </div>
+    {{- end}}
+</div>
