@@ -31,8 +31,7 @@ menu:
         #   weight: 4
 
 params:
-    description: "I am an assistant professor in economics at Tecnológico de Monterrey.
-          I am interested in macroeconomics, industrial organization and labor. The primary focus of my research is understanding the causes and consequences of imperfect competition on economic aggregates and their distribution"
+    description: "I am an Assistant Professor of Economics at Tecnológico de Monterrey working on market power, trade, and structural change."
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
