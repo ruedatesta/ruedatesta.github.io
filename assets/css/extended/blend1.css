@@ -122,6 +122,11 @@ body {
     max-width: 64ch;
 }
 
+/* Space between the photo/name block and the bio */
+.profile-head + .profile-bio {
+    margin-top: 28px;
+}
+
 .profile-bio a {
     color: var(--accent-strong);
     font-weight: 600;
