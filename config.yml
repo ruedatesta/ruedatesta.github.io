@@ -67,11 +67,6 @@ params:
           "
           # Shown in italics under your name on the front page
           role: "Assistant Professor of Economics, Tecnológico de Monterrey"
-          # Shown as small orange tags under your name; add, remove or reorder freely
-          tags:
-            - Market power
-            - Trade
-            - Structural change
           # imageUrl: "picture.jpeg"
           imageUrl: "hrueda_photo_4.png"
           imageWidth: 160
