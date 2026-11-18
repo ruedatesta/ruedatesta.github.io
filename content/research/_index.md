@@ -24,8 +24,9 @@ description: "Research"
 <div class="paper-links">
 <details>
 <summary>Abstract</summary>
-<p>Using matched employer-employee data, I empirically and theoretically study the effects of increased minimum wages in Uruguay. My calibrated model includes oligopsonistic competition and heterogeneous firms. I find that despite the almost doubling of the minimum wage, there was little effect on the aggregate markdown and the extent of misallocation.</p>
+<p>This paper examines the firm, sectoral, and aggregate implications of the minimum wage where firms compete for workers in an oligopsonistic setting. Using administrative matched employer-employee data, I first study Uruguay's experience with the minimum wage, which increased its statutory value by 86% in real terms in 2005, raising the share of binding workers from 3% to 15% of the total workforce. At the firm level, I show that directly affected firms experienced employment declines, although these were significantly attenuated for firms with initially higher market shares. To explain these responses as well as evaluate the welfare effects of the minimum wage, I then calibrate a state-of-the-art model with heterogeneous firms, where firms engage in oligopsonistic competition featuring strategic interactions in local labor markets. The calibrated model reveals substantial pre-policy labor market distortions: an aggregate wage markdown of 68% and a corresponding 3% reduction in total factor productivity. I find moreover that once the minimum wage is implemented, it increases the aggregate wage markdown while worsening aggregate TFP, though the magnitudes are small. Overall, labor market power generates welfare losses of 6.6%, driven mainly by wider markdowns and, to a lesser extent, by misallocation.</p>
 </details>
+<a href="mw_hrueda_jmp.pdf">PDF</a>
 </div>
 </div>
 
